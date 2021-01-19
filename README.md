@@ -16,7 +16,7 @@ The challenges are divided into three categories and are saved in their respecti
 ```
 Please, consider leaving a star.
 
-Feel free to contact me for collaborations on the repo.
+Feel free to contact me for contributions to the repo.
 
 The easiest way to stay informed and know whenever something new is added is to "Watch" this repo.
 Click the "Watch" button to the top-right.
